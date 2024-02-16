@@ -9,7 +9,6 @@ class App extends Component {
 			<div>
 				<B/> <br/>
 				<C/> <br/>
-				<D/>
 			</div>
 		);
 	}
